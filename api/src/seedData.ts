@@ -160,6 +160,16 @@ export const products: Product[] = [
         sku: "CAT-TRACKER-001",
         unit: "piece",
         imgName: "tracker-mat.png"
+    },
+    {
+        productId: 13,
+        supplierId: 3,
+        name: "Mona Lisa Cat Figurine",
+        description: "A beautiful handcrafted figurine inspired by the Mona Lisa.",
+        price: 32.99,
+        sku: "MONA-001",
+        unit: "piece",
+        imgName: "mona-figurine.png"
     }
 ];
 
